@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Lam\dai hoc\làm thêm\vẽ xe\car\car\mylib.h(27,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\Lam\dai hoc\làm thêm\vẽ xe\car\car\mylib.h(27,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  car.vcxproj -> E:\Lam\dai hoc\làm thêm\vẽ xe\car\Debug\car.exe
